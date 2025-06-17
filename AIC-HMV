@@ -1,0 +1,10 @@
+{
+  "schemaVersion": 1,
+  "label": "AIC-HMV",
+  "message": "Supreme Identity Verified",
+  "color": "blue",
+  "style": "flat-square",
+  "logo": "github",
+  "logoColor": "white",
+  "labelColor": "black"
+}
