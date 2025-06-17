@@ -1,0 +1,25 @@
+name: AIC-HMV Badge/Shields Master
+
+on:
+  pull_request:
+    types: [opened]
+
+permissions:
+  pull-requests: write
+
+jobs:
+  badge-shield-check:
+    runs-on: ubuntu-latest
+    if: github.actor == 'dependabot[bot]'
+
+    steps:
+      - name: 🧬 Checkout Repository
+        uses: actions/checkout@v4
+
+      - name: 📦 Install Action Dependencies
+        run: cd .github/actions/badge-shields-master && npm ci
+
+      - name: 🚨 Run AIC-HMV Badge/Shields Master
+        uses: ./.github/actions/badge-shields-master
+        with:
+          github-token: '${{ secrets.GITHUB_TOKEN }}'
