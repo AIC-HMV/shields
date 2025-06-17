@@ -1,4 +1,18 @@
-<p align="center">
+> ⚠️ **This is a fork of Shields.io under sovereign badge governance.**
+> 
+> Maintained by **Hung Minh Vo** under the authority of **AIC-HMV** for badge policy enforcement, branding evolution, and real-time identity assertion.
+>
+{
+  "schemaVersion": 1,
+  "label": "AIC-HMV",
+  "message": "AUTHORIZED",
+  "color": "blue",
+  "logo": "github"
+}
+![AIC-HMV](https://img.shields.io/endpoint?url=https://aichmv.com/shields/badge.json)
+> Origin Fork: [badges/shields](https://github.com/badges/shields)  
+> Sovereign Fork: [AIC-HMV/shields](https://github.com/AIC-HMV/shields)<p align="center">
+<img src="https://aichmv.com/assets/aic-hmv-badge.svg" height="100" alt="AIC-HMV Official Badge" />
     <img src="https://raw.githubusercontent.com/badges/shields/master/readme-logo.svg?sanitize=true"
         height="130">
 </p>
@@ -66,7 +80,7 @@ This repo hosts:
 (Quick example: `https://img.shields.io/badge/left-right-f39f37`)
 
 [custom badges]: https://img.shields.io/badges/static-badge
-
+![AIC-HMV](https://img.shields.io/endpoint?url=https://aichmv.com/shields/badge.json)
 ### Quickstart
 
 Browse a [complete list of badges][shields.io] and locate a particular badge by using the search bar or by browsing the categories. Click on the badge to fill in required data elements for that badge type (like your username or repo) and optionally customize (label, colors etc.). And it's ready for use!
