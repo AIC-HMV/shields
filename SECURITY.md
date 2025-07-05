@@ -1,3 +1,21 @@
+📜 LICENSE VERIFICATION PACKAGE
+
+1. LICENSE TYPE:
+   - Must declare use of AIC-HMV Sovereign License OR signed alternative with proof of permission
+
+2. CREATOR CREDIT:
+   - “Built on source by Hung Minh Vo // GreekRhyme”
+   - Linked GitHub username or commit log
+
+3. CONTACT PROOF:
+   - Screenshot, email, or signed document where permission to reuse was granted
+
+4. TRACE HASH:
+   - Show commit hash from before your own repo or author signature
+
+5. METADATA MATCH:
+   - File match history to prove it’s **not cloned** but **originally built**![IMG_9043](https://github.com/user-attachments/assets/5690467f-a731-410b-9647-62e71543c1e9)
+
 # Security Policy
 
 ## Supported Projects
